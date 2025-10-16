@@ -31,7 +31,7 @@ except ImportError:
 
 # ==================== CONFIGURATION ====================
 # OPTION 1: NewsAPI.org (Free tier - 100 requests/day, no full content in free tier)
-NEWSAPI_KEY = "44a8f55bbfdb49bda90699dfd2534cf3"  # Get free key at https://newsapi.org/
+NEWSAPI_KEY = "YOUR_NEWSAPI_KEY_HERE"  # Get free key at https://newsapi.org/
 
 # OPTION 2: GNews.io (Paid tier needed for full content - ~$50/month)
 # GNEWS_API_KEY = "YOUR_GNEWS_API_KEY_HERE"  # Get at https://gnews.io/
